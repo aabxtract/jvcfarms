@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- CSRF Token -->
+    <meta name="csrf-token" content="0TTzbUXyXKu9dy6C7VGLWGYIjbFeeZ7sHO5sqVqh">
+
+    <title>WWF - 7 THINGS TO KNOW ABOUT PALM OIL</title>
+    <meta name="description" content="WWF’s palm oil scorecard shows that many of the foods we eat are still contributing to deforestation. Here’s what you need to know.">
+
+    <meta property="og:title" content="7 THINGS TO KNOW ABOUT PALM OIL" /><meta property="og:type" content="website" /><meta property="og:url" content="https://wwfcee.org/partnerships/partnership-for-sustainable-food/7-things-to-know-about-palm-oil" /><meta property="og:image" content="https://wwfcee.org/articles_images/1657012151.png" /><meta property="og:description" content="WWF’s palm oil scorecard shows that many of the foods we eat are still contributing to deforestation. Here’s what you need to know." /><meta property="og:locale" content="en_EN" /><meta property="og:site_name" content="WWF" />
+
+    <link rel="preload" as="font" href="https://wwfcee.org/themes/frontend/fonts/OpenSans-Bold.ttf" type="font/ttf" crossorigin>
+    <link rel="preload" as="font" href="https://wwfcee.org/themes/frontend/fonts/OpenSans-Italic.ttf" type="font/ttf" crossorigin>
+    <link rel="preload" as="font" href="https://wwfcee.org/themes/frontend/fonts/OpenSans-Light.ttf" type="font/ttf" crossorigin>
+    <link rel="preload" as="font" href="https://wwfcee.org/themes/frontend/fonts/OpenSans-Regular.ttf" type="font/ttf" crossorigin>
+    <link rel="preload" as="font" href="https://wwfcee.org/themes/frontend/fonts/OpenSans-SemiBold.ttf" type="font/ttf" crossorigin>
+    <link rel="preload" as="font" href="https://wwfcee.org/themes/frontend/fonts/WWF.otf" type="font/otf" crossorigin>
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="https://wwfcee.org/themes/frontend/css/frontend.css?t=1776950565" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://wwfcee.org/themes/frontend/css/swiper.css?t=1776950565" crossorigin="anonymous">
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-P2FLGHB');</script>
+    <!-- End Google Tag Manager -->
+
+    <!-- Meta Pixel Code -->
+    <script>
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+            n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t,s)}(window, document,'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '690509791982460');
+        fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+                   src="https://www.facebook.com/tr?id=690509791982460&ev=PageView&noscript=1"
+        /></noscript>
+    <!-- End Meta Pixel Code -->
+</head>
+<body id="app-layout">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P2FLGHB" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <header>
+        <div class="container">
+            <nav class="navbar navbar-expand-lg navbar-light py-0">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#pageMenu" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/"><img src="https://wwfcee.org/themes/frontend/img/WWF.svg"/></a>
+                </div>
+
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="pageMenu">
+                    <!-- Header menü -->
+                    <ul class="nav navbar-nav mr-auto">   <li class="dropdown"> <a href="https://wwfcee.org/who-we-are" title="Who We Are" class="pr-0"> Who We Are <span class="caret"></span> </a> <a role="button" class="dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <span class="caret"></span> </a> <ul class="dropdown-menu">  <li> <a href="/who-we-are/our-regional-board" title="Our Regional Board"> Our Regional Board </a> </li>  <li> <a href="/who-we-are/our-management" title="Our Management"> Our Management </a> </li>  <li> <a href="/who-we-are/our-experts" title="Our Experts"> Our Experts </a> </li>  <li> <a href="/who-we-are/our-story" title="Our Story"> Our Story </a> </li>  <li> <a href="/who-we-are/our-values" title="Our Values"> Our Values </a> </li>  <li> <a href="/our-strategy" title="Our Strategy"> Our Strategy </a> </li>  </ul> </li>    <li class="dropdown"> <a href="https://wwfcee.org/our-offices" title="Our Offices" class="pr-0"> Our Offices <span class="caret"></span> </a> <a role="button" class="dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <span class="caret"></span> </a> <ul class="dropdown-menu">  <li> <a href="/our-offices/bulgaria" title="Bulgaria"> Bulgaria </a> </li>  <li> <a href="/our-offices/hungary" title="Hungary"> Hungary </a> </li>  <li> <a href="/our-offices/romania" title="Romania"> Romania </a> </li>  <li> <a href="/our-offices/slovakia" title="Slovakia"> Slovakia </a> </li>  <li> <a href="/our-offices/czech republic" title="WWF in Czechia"> WWF in Czechia </a> </li>  <li> <a href="/our-offices/ukraine" title="Ukraine"> Ukraine </a> </li>  </ul> </li>    <li class="dropdown"> <a href="https://wwfcee.org/what-we-do" title="What We Do" class="pr-0"> What We Do <span class="caret"></span> </a> <a role="button" class="dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <span class="caret"></span> </a> <ul class="dropdown-menu">  <li> <a href="/what-we-do/climate-energy" title="Climate & Energy"> Climate & Energy </a> </li>  <li> <a href="/what-we-do/forest" title="Forest"> Forest </a> </li>  <li> <a href="/what-we-do/freshwater" title="Freshwater"> Freshwater </a> </li>  <li> <a href="/what-we-do/large-carnivores" title="Large Carnivores"> Large Carnivores </a> </li>  <li> <a href="/what-we-do/sturgeons" title="Sturgeons"> Sturgeons </a> </li>  <li> <a href="/what-we-do/bison" title="Bison"> Bison </a> </li>  <li> <a href="/what-we-do/youth empowerment" title="Youth Empowerment"> Youth Empowerment </a> </li>  <li> <a href="/onehome" title="One Home. One Future."> One Home. One Future. </a> </li>  </ul> </li>    <li class="dropdown"> <a href="https://wwfcee.org/partnerships" title="Partnerships" class="pr-0"> Partnerships <span class="caret"></span> </a> <a role="button" class="dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <span class="caret"></span> </a> <ul class="dropdown-menu">  <li> <a href="https://business.wwfcee.org/" title="The Future of Business"> The Future of Business </a> </li>  <li> <a href="/partnerships/partnership-for-freshwater" title="Partnership for Freshwater"> Partnership for Freshwater </a> </li>  <li> <a href="https://wwfcee.org/partnerships/partnership-for-nature-climate" title="Partnership for Nature & Climate"> Partnership for Nature & Climate </a> </li>  <li> <a href="/partnerships/partnership-for-sustainable-food" title="Partnership for Sustainable Food"> Partnership for Sustainable Food </a> </li>  </ul> </li>    <li> <a href="/news" title="News"> News </a> </li>    <li> <a href="/inspirations" title="Inspirations"> Inspirations </a> </li>   </ul>
+
+                    <ul class="nav navbar-nav mr-auto">  </ul>
+
+                </div>
+                <div class="search row">
+                    <form method="GET" action="https://wwfcee.org/search" accept-charset="UTF-8" class="form-inline my-2 my-lg-0">
+                        <input name="search" id="globalSearchInput" class="form-control mr-sm-2 hidden" type="search" placeholder="Search" aria-label="Search" value="" required>
+                        <button id="globalSearchButton" class="btn" type="submit"><img src="https://wwfcee.org/themes/frontend/img/search.svg" alt="Search"/></button>
+                    </form>
+                </div>
+            </nav>
+
+        </div>
+    </header>
+
+    <main>
+                  <div class="container content pt-3"> <nav aria-label="breadcrumb" class="breadcrumb-nav pb-3 row mx-0 my-3"> <ol class="breadcrumb p-0 col mb-0"> <li class="breadcrumb-item"><a href="/" class="text-uppercase">Home</a></li>    <li class="breadcrumb-item"><a href="/partnerships" class="text-uppercase">Partnerships</a></li>     <li class="breadcrumb-item"><a href="/partnerships/partnership-for-sustainable-food" class="text-uppercase">Partnership for Sustainable Food</a></li>     <li class="breadcrumb-item text-uppercase active" aria-current="page">7 THINGS TO KNOW ABOUT PALM OIL</li>    </ol> <a href="javascript:history.back()" class="btn back col-auto">Back</a> </nav> </div> <div class="container content article-section my-3">     <div id="article-section-0">  <div class="article-container"> <h2 class="text-center">7 THINGS TO KNOW ABOUT PALM OIL</h2> </div>    <div class="article-container">   <div class="article-lead mb-3">WWF’s palm oil scorecard shows that many of the foods we eat are still contributing to deforestation. Here’s what you need to know.</div>  <div class="article-content"><h3 dir="ltr">1. WHAT IS PALM OIL?</h3>
+
+<p><span style="font-size: 1rem;">It&rsquo;s an edible vegetable oil that comes from the fruit of oil palm trees, the scientific name is Elaeis guineensis. Two types of oil can be produced; crude palm oil comes from squeezing the fleshy fruit, and palm kernel oil which comes from crushing the kernel, or the stone in the middle of the fruit. Oil palm trees are native to Africa but were brought to South-East Asia just over 100 years ago as an ornamental tree crop. Now, Indonesia and Malaysia make up over 85% of global supply but there are 42 other countries that also produce palm oil.</span></p>
+
+<p><img alt="" src="/uploads/TESCO/Medium_WW180202.jpg" style="height: 499px; width: 750px;" /></p>
+
+<p><em><small>Smallholder shows the harvested palm fruit, Musim Mas palm oil plantation, Sumatra,&nbsp;Indonesia&nbsp;&copy; James Morgan / WWF-International</small></em></p>
+
+<p>2. WHAT PRODUCTS IS IT IN?</p>
+
+<p dir="ltr">Palm oil is in nearly everything &ndash; it&rsquo;s in close to 50% of the packaged products we find in supermarkets, everything from pizza, doughnuts and chocolate, to deodorant, shampoo, toothpaste and lipstick. It&rsquo;s also used in animal feed and as a biofuel in many parts of the world.</p>
+
+<h3 dir="ltr">3. WHY IS PALM OIL EVERYWHERE?</h3>
+
+<p dir="ltr">Palm oil is an extremely versatile oil that has many different properties and functions which makes it so useful and so widely used. It is semi-solid at room temperature so can keep spreads spreadable; it is resistant to oxidation and so can give products a longer shelf-life; it&rsquo;s stable at high temperatures and so helps to give fried products a crispy and crunchy texture; it&rsquo;s also odourless and colourless so doesn&rsquo;t alter the look or smell of food products. In Asian and African countries, palm oil is used widely as a cooking oil, just like we might use sunflower or olive oil here.</p>
+
+<h3 dir="ltr">4. WHAT IS THE PROBLEM WITH PALM OIL?</h3>
+
+<p dir="ltr">Palm oil has been and continues to be a major driver of deforestation of some of the world&rsquo;s most biodiverse forests, destroying the habitat of already endangered species like the Orangutan, pygmy elephant and Sumatran rhino. This forest loss coupled with conversion of carbon rich peat soils are throwing out millions of tonnes of greenhouse gases into the atmosphere and contributing to climate change. There also remains some exploitation of workers and child labour. These are serious issues that the whole palm oil sector needs to step up to address because it doesn&rsquo;t have to be this way.</p>
+
+<p dir="ltr"><img alt="" src="/uploads/TESCO/Medium_WW2114750.jpg" style="height: 500px; width: 750px;" /></p>
+
+<p dir="ltr"><em><small>Bornean elephants walk through an oil palm plantation and eat the trunks of felled old&nbsp;oil palm trees at Sabah Softwoods in Sabah, Borneo&nbsp;&copy; Chris J Ratcliffe / WWF-UK</small></em></p>
+
+<h3>5. WHAT SOLUTIONS ARE THERE?</h3>
+
+<p dir="ltr">Palm oil can be produced more sustainably and things can change. <a href="https://www.rspo.org/about">The Roundtable of Sustainable Palm Oil </a>( RSPO) was formed in 2004 in response to increasing concerns about the impacts palm oil was having on the environment and on society. The RSPO has a production standard that sets best practices producing and sourcing palm oil, and it has the buy-in of most of the global industry. As well as committing to buy and use RSPO certified palm oil across their operations globally, WWF encourages companies to be transparent in their use and sourcing of palm oil ensuring they know who they are buying from and where it&rsquo;s been produced, and to invest in and support smallholder programmes and sustainable landscape initiatives. Only with all of these ingredients can we start to accelerate the shift to a mainstream sustainable palm oil industry.</p>
+
+<p dir="ltr"><img alt="" src="/uploads/TESCO/Medium_WW171997.jpg" style="height: 500px; width: 750px;" /></p>
+
+<p dir="ltr"><em><small>Darrel Webber, Secretary General of Roundtable on Sustainable Palm Oil (RSPO),&nbsp;talks about producing sustainable palm oil. TEDxWWF, Singapore.&nbsp;&copy; WWF / Carolyn Lim</small></em></p>
+
+<h3>6. WHY DON&rsquo;T WE JUST SWITCH TO AN ALTERNATIVE VEGETABLE OIL?</h3>
+
+<p dir="ltr">Palm oil is an incredibly efficient crop, producing more oil per land area than any other equivalent vegetable oil crop. Globally, palm oil supplies 35% of the world&rsquo;s vegetable oil demand on just 10% of the land. To get the same amount of alternative oils like soybean or coconut oil you would need anything between 4 and 10 times more land, which would just shift the problem to other parts of the world and threaten other habitats and species. Furthermore, palm oil is an important crop for the GDP of emerging economies and there are millions of smallholder farmers who depend on producing palm oil for their livelihood. Boycotting palm oil is not always the answer, but demanding more action to tackle the issues and go further and faster, is.</p>
+
+<h3 dir="ltr">7. CAN I TRUST RSPO CERTIFIED PRODUCTS?</h3>
+
+<p dir="ltr">RSPO represents the largest, independent, third-party standard for the more sustainable production of palm oil. Certified palm oil protects the environment and the local communities who depend on it for their livelihoods, so that palm oil can continue to play a key role in food security. Along with other organisations, we play an active role in influencing and shaping the RSPO standard to make sure it puts in place more safeguards for people and the planet. In November 2018 the RSPO standard was strengthened and it now represents an essential tool that can help companies achieve their commitments to palm oil that is free of deforestation, expansion on peat, exploitation and the use of fire.</p>
+
+<h3 dir="ltr">WHAT CAN I DO?</h3>
+
+<p dir="ltr">You can either check the ingredients on the products we buy, and refuse the ones that contain palm oil, or specifically search for the sustainable options marked by RSPO.</p>
+
+<p dir="ltr">Check out our new <a href="http://palmoilscorecard.panda.org/">WWF Palm oil Scorecard</a> to see which of your favourite brands and retailers are committed to sustainable palm oil free of deforestation and destruction of nature.</p>
+
+<h3><br />
+<a href="http://wwfcee.org/sustainable-diet/en">Visit Good for you, good for the planet&nbsp;PAGE</a></h3></div>   <div class="tags">  <a href="https://wwfcee.org/tags/climate%20and%20energy" class="bg-wwf">climate and energy</a>  <a href="https://wwfcee.org/tags/food%20waste" class="bg-wwf">food waste</a>  <a href="https://wwfcee.org/tags/ecological%20footprint" class="bg-wwf">ecological footprint</a>  <a href="https://wwfcee.org/tags/sustainable%20food" class="bg-wwf">sustainable food</a>  <a href="https://wwfcee.org/tags/deforestation" class="bg-wwf">deforestation</a>  <a href="https://wwfcee.org/tags/global%20warming" class="bg-wwf">global warming</a>  <a href="https://wwfcee.org/tags/biodiversity" class="bg-wwf">biodiversity</a>  <a href="https://wwfcee.org/tags/consumption" class="bg-wwf">consumption</a>  </div>   </div>  <div class="article-container text-right">  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwwfcee.org%2Fpartnerships%2Fpartnership-for-sustainable-food%2F7-things-to-know-about-palm-oil&amp;title=7%20THINGS%20TO%20KNOW%20ABOUT%20PALM%20OIL" target="_blank" class="facebook shareBtn"><img src="https://wwfcee.org/themes/frontend/img/facebook.svg" alt="facebook"/></a> <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwwfcee.org%2Fpartnerships%2Fpartnership-for-sustainable-food%2F7-things-to-know-about-palm-oil&amp;text=7%20THINGS%20TO%20KNOW%20ABOUT%20PALM%20OIL" target="_blank" class="twitter shareBtn"><img src="https://wwfcee.org/themes/frontend/img/twitter.svg" alt="twitter"/></a> <a href="https://www.linkedin.com/company/wwf-central-and-eastern-europe/" target="_blank" class="linkedin shareBtn"><img src="https://wwfcee.org/themes/frontend/img/linkedin.svg" alt="linkedin"/></a> </div>  </div>        </div>     </main>
+
+    <footer>
+        <div class="container-fluid text-center">
+            <h2 class="lined">Follow Us</h2>
+            <div class="row justify-content-center social my-5 pt-5">
+                <div class="col-auto">
+                    <a href="https://www.facebook.com/WWFCEE" target="_blank">
+                        <img src="https://wwfcee.org/themes/frontend/img/facebook.svg" alt="facebook"/>
+                        <p class="text-uppercase mt-2">Facebook</p>
+                    </a>
+                </div>
+                <div class="col-auto">
+                    <a href="https://www.linkedin.com/company/wwf-central-and-eastern-europe" target="_blank">
+                        <img src="https://wwfcee.org/themes/frontend/img/linkedin.svg" alt="linkedin"/>
+                        <p class="text-uppercase mt-2">LinkedIn</p>
+                    </a>
+                </div>
+            </div>
+                        <div id="newsLetter my-5">
+                <h3>Stay updated!</h3>
+                <p>Sign up to our mailing list for the latest news, stories, and ways you can make a difference for our planet!</p>
+                <button type="button" class="btn btn-wwf" data-toggle="modal" data-target="#newsLetterModal" >Subscribe Now</button>
+            </div>
+                        <div id="footerLogo" class="text-center my-5">
+                <img src="https://wwfcee.org/themes/frontend/img/WWF.svg"/>
+            </div>
+            <!-- Footer menü -->
+            <ul class="nav navbar-nav justify-content-center">  <li class="mx-sm-3"> <a href="/jobs" title="Jobs"> Jobs </a> </li>  <li class="mx-sm-3"> <a href="/contact" title="Contact"> Contact </a> </li>  <li class="mx-sm-3"> <a href="https://report.whistleb.com/en/wwf" title="Speak up - WWF Whistleblowing portal"> Speak up - WWF Whistleblowing portal </a> </li>  <li class="mx-sm-3"> <a href="/who-we-are/our-values/privacy-policy" title="Privacy"> Privacy </a> </li> </ul>
+            <div class="article-container mt-4 EU-Commission">
+                <div class="row justify-content-center align-items-center">
+                    <div class="col-sm-auto pr-sm-0"><img src="https://wwfcee.org/themes/frontend/img/flag.png" alt="flag"></div>
+                    <div class="col-sm text-center text-sm-left mt-3 mt-sm-0">WWF-CEE gratefully acknowledges funding support from the LIFE Programme of the European Union.<br>All views and opinions expressed are solely those of WWF-CEE and do not necessarily reflect those of the European Union or CINEA. Neither the European Union nor CINEA can be held responsible for them.</div>
+                </div>
+            </div>
+        </div>
+        <div class="container-fluid text-center mt-4 py-3 infoText">
+            <div class="article-container">
+            <p> This web site aims to educate, persuade and motivate us all towards saving our one and only planet (of course there's always room for improvement there :-) because nobody is perfect. Only our planet and nature!
+            We look forward to receiving your comments and participation in the discussions. Otherwise we believe the discussion happens more naturally and better on our social media channels like on our page on Facebook.com/WWF CEE.
+            You can freely criticize WWF - we value that, because we learn from it.
+            But when it comes to other people, we need to be respectful of their individual opinions and viewpoints.
+            Therefore, we will not publish and will remove comments that:</p>
+            <ul class="text-left mr-auto">
+                <li>Bully, threaten, or slander another person</li>
+                <li>Contain swear words or other sorts of profanity</li>
+                <li>Pretend to be someone else</li>
+                <li>Give out contact information for yourself or someone else (such as name, address, phone number, or e-mail address)</li>
+                <li>Promote, advertise, post commercial material, or link to commercial websites</li>
+                <li>Link to websites that contain illegal or inappropriate material</li>
+                <li>Spam (the horror of it!)</li>
+            </ul>
+            <p>Thank you for visiting us, and see you next time!</p>
+            <p>© 2020 WWF - World Wide Fund For Nature© 1986 Panda Symbol WWF – World Wide Fund For Nature (formerly World Wildlife Fund)® “WWF” is a WWF Registered Trademark</p>
+            </div>
+        </div>
+    </footer>
+        <div class="modal fade" id="newsLetterModal" tabindex="-1" aria-labelledby="newsLetterModal" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        &times;
+                    </button>
+                    <div class="text-center"> <h3 class="mb-5">Subscribe to our newsletter</h3> </div> <div class="px-5 pb-5"> <form method="POST" action="https://wwfcee.org/newsletters/subscribe" accept-charset="UTF-8" id="newsletter_submit_form"><input name="_token" type="hidden" value="0TTzbUXyXKu9dy6C7VGLWGYIjbFeeZ7sHO5sqVqh">  <div class="form-group"> <label for="name">First name:</label> <input class="form-control" name="name" type="text" id="name"> </div> <div class="form-group"> <label for="family_name">Last name:</label> <input class="form-control" name="family_name" type="text" id="family_name"> </div> <div class="form-group"> <label for="email">Email:</label> <input class="form-control" name="email" type="email" id="email"> </div> <div class="form-group"> <label for="country">Country:</label> <select class="form-control" id="country" name="country"><option value="" selected="selected">Please select one</option><option value="1">Afghanistan</option><option value="2">Albania</option><option value="3">Algeria</option><option value="4">American Samoa</option><option value="5">Andorra</option><option value="6">Angola</option><option value="7">Anguilla</option><option value="8">Antarctica</option><option value="9">Antigua &amp; Barbuda</option><option value="10">Argentina</option><option value="11">Armenia</option><option value="12">Aruba</option><option value="13">Ascension Island</option><option value="14">Australia</option><option value="15">Austria</option><option value="16">Azerbaijan</option><option value="17">Bahamas</option><option value="18">Bahrain</option><option value="19">Bangladesh</option><option value="20">Barbados</option><option value="21">Belarus</option><option value="22">Belgium</option><option value="23">Belize</option><option value="24">Benin</option><option value="25">Bermuda</option><option value="26">Bhutan</option><option value="27">Bolivia</option><option value="28">Bosnia &amp; Herzegovina</option><option value="29">Botswana</option><option value="30">Brazil</option><option value="31">British Indian Ocean Territory</option><option value="32">British Virgin Islands</option><option value="33">Brunei</option><option value="34">Bulgaria</option><option value="35">Burkina Faso</option><option value="36">Burundi</option><option value="37">Cambodia</option><option value="38">Cameroon</option><option value="39">Canada</option><option value="40">Canary Islands</option><option value="41">Cape Verde</option><option value="42">Caribbean Netherlands</option><option value="43">Cayman Islands</option><option value="44">Central African Republic</option><option value="45">Ceuta &amp; Melilla</option><option value="46">Chad</option><option value="47">Chile</option><option value="48">China</option><option value="49">Christmas Island</option><option value="50">Cocos (Keeling) Islands</option><option value="51">Colombia</option><option value="52">Comoros</option><option value="53">Congo - Brazzaville</option><option value="54">Congo - Kinshasa</option><option value="55">Cook Islands</option><option value="56">Costa Rica</option><option value="57">Croatia</option><option value="58">Cuba</option><option value="59">Curaçao</option><option value="60">Cyprus</option><option value="61">Czechia</option><option value="62">Côte d’Ivoire</option><option value="63">Denmark</option><option value="64">Diego Garcia</option><option value="65">Djibouti</option><option value="66">Dominica</option><option value="67">Dominican Republic</option><option value="68">Ecuador</option><option value="69">Egypt</option><option value="70">El Salvador</option><option value="71">Equatorial Guinea</option><option value="72">Eritrea</option><option value="73">Estonia</option><option value="74">Eswatini</option><option value="75">Ethiopia</option><option value="76">Falkland Islands</option><option value="77">Faroe Islands</option><option value="78">Fiji</option><option value="79">Finland</option><option value="80">France</option><option value="81">French Guiana</option><option value="82">French Polynesia</option><option value="83">French Southern Territories</option><option value="84">Gabon</option><option value="85">Gambia</option><option value="86">Georgia</option><option value="87">Germany</option><option value="88">Ghana</option><option value="89">Gibraltar</option><option value="90">Greece</option><option value="91">Greenland</option><option value="92">Grenada</option><option value="93">Guadeloupe</option><option value="94">Guam</option><option value="95">Guatemala</option><option value="96">Guernsey</option><option value="97">Guinea</option><option value="98">Guinea-Bissau</option><option value="99">Guyana</option><option value="100">Haiti</option><option value="101">Honduras</option><option value="102">Hong Kong SAR China</option><option value="103">Hungary</option><option value="104">Iceland</option><option value="105">India</option><option value="106">Indonesia</option><option value="107">Iran</option><option value="108">Iraq</option><option value="109">Ireland</option><option value="110">Isle of Man</option><option value="111">Israel</option><option value="112">Italy</option><option value="113">Jamaica</option><option value="114">Japan</option><option value="115">Jersey</option><option value="116">Jordan</option><option value="117">Kazakhstan</option><option value="118">Kenya</option><option value="119">Kiribati</option><option value="120">Kosovo</option><option value="121">Kuwait</option><option value="122">Kyrgyzstan</option><option value="123">Laos</option><option value="124">Latvia</option><option value="125">Lebanon</option><option value="126">Lesotho</option><option value="127">Liberia</option><option value="128">Libya</option><option value="129">Liechtenstein</option><option value="130">Lithuania</option><option value="131">Luxembourg</option><option value="132">Macao SAR China</option><option value="133">Madagascar</option><option value="134">Malawi</option><option value="135">Malaysia</option><option value="136">Maldives</option><option value="137">Mali</option><option value="138">Malta</option><option value="139">Marshall Islands</option><option value="140">Martinique</option><option value="141">Mauritania</option><option value="142">Mauritius</option><option value="143">Mayotte</option><option value="144">Mexico</option><option value="145">Micronesia</option><option value="146">Moldova</option><option value="147">Monaco</option><option value="148">Mongolia</option><option value="149">Montenegro</option><option value="150">Montserrat</option><option value="151">Morocco</option><option value="152">Mozambique</option><option value="153">Myanmar (Burma)</option><option value="154">Namibia</option><option value="155">Nauru</option><option value="156">Nepal</option><option value="157">Netherlands</option><option value="158">New Caledonia</option><option value="159">New Zealand</option><option value="160">Nicaragua</option><option value="161">Niger</option><option value="162">Nigeria</option><option value="163">Niue</option><option value="164">Norfolk Island</option><option value="165">North Korea</option><option value="166">North Macedonia</option><option value="167">Northern Mariana Islands</option><option value="168">Norway</option><option value="169">Oman</option><option value="170">Pakistan</option><option value="171">Palau</option><option value="172">Palestinian Territories</option><option value="173">Panama</option><option value="174">Papua New Guinea</option><option value="175">Paraguay</option><option value="176">Peru</option><option value="177">Philippines</option><option value="178">Pitcairn Islands</option><option value="179">Poland</option><option value="180">Portugal</option><option value="181">Pseudo-Accents</option><option value="182">Pseudo-Bidi</option><option value="183">Puerto Rico</option><option value="184">Qatar</option><option value="185">Romania</option><option value="186">Russia</option><option value="187">Rwanda</option><option value="188">Réunion</option><option value="189">Samoa</option><option value="190">San Marino</option><option value="191">Saudi Arabia</option><option value="192">Senegal</option><option value="193">Serbia</option><option value="194">Seychelles</option><option value="195">Sierra Leone</option><option value="196">Singapore</option><option value="197">Sint Maarten</option><option value="198">Slovakia</option><option value="199">Slovenia</option><option value="200">Solomon Islands</option><option value="201">Somalia</option><option value="202">South Africa</option><option value="203">South Georgia &amp; South Sandwich Islands</option><option value="204">South Korea</option><option value="205">South Sudan</option><option value="206">Spain</option><option value="207">Sri Lanka</option><option value="208">St. Barthélemy</option><option value="209">St. Helena</option><option value="210">St. Kitts &amp; Nevis</option><option value="211">St. Lucia</option><option value="212">St. Martin</option><option value="213">St. Pierre &amp; Miquelon</option><option value="214">St. Vincent &amp; Grenadines</option><option value="215">Sudan</option><option value="216">Suriname</option><option value="217">Svalbard &amp; Jan Mayen</option><option value="218">Sweden</option><option value="219">Switzerland</option><option value="220">Syria</option><option value="221">São Tomé &amp; Príncipe</option><option value="222">Taiwan</option><option value="223">Tajikistan</option><option value="224">Tanzania</option><option value="225">Thailand</option><option value="226">Timor-Leste</option><option value="227">Togo</option><option value="228">Tokelau</option><option value="229">Tonga</option><option value="230">Trinidad &amp; Tobago</option><option value="231">Tristan da Cunha</option><option value="232">Tunisia</option><option value="233">Turkey</option><option value="234">Turkmenistan</option><option value="235">Turks &amp; Caicos Islands</option><option value="236">Tuvalu</option><option value="237">U.S. Outlying Islands</option><option value="238">U.S. Virgin Islands</option><option value="239">Uganda</option><option value="240">Ukraine</option><option value="241">United Arab Emirates</option><option value="242">United Kingdom</option><option value="243">United States</option><option value="244">Uruguay</option><option value="245">Uzbekistan</option><option value="246">Vanuatu</option><option value="247">Vatican City</option><option value="248">Venezuela</option><option value="249">Vietnam</option><option value="250">Wallis &amp; Futuna</option><option value="251">Western Sahara</option><option value="252">Yemen</option><option value="253">Zambia</option><option value="254">Zimbabwe</option><option value="255">Åland Islands</option></select> </div> <div class="form-group"> <label for="company">Organization / Company:</label> <input class="form-control" name="company" type="text" id="company"> </div> <div class="form-group text-justify font-14"> <label class="small">Please confirm that you’d like to receive our updates:</label> <br><br> <input name="pp_consent" type="checkbox" value="1"> <label class="small">Yes, please</label> <br><br> <label class="small">You can unsubscribe at any time using the link in our emails. For details, see our <a href="/who-we-are/our-values/privacy-policy" target="_blank">privacy policy</a>.</label> </div> <div id="newsletter_submit_error_container"></div> <div class="text-center g-recaptcha-box"> <button id="submit-box" class="btn btn-wwf btn-send btn-submit g-recaptcha" data-sitekey="6LfCYvQqAAAAAPEJAnqcYUzqTI12l_YKzorrV7xZ" data-callback='onRecaptchaV3Submit' data-action='submit' data-badge='inline'>Subscribe</button> </div> </form> </div>                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Fonts -->
+    <link rel="stylesheet" href="https://wwfcee.org/themes/frontend/vendor/font-awesome-4.7.0/css/font-awesome.min.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700">
+
+    <!-- JavaScripts -->
+    <script src="https://wwfcee.org/themes/frontend/js/frontend.js?t=1776950565" crossorigin="anonymous"></script>
+    <script src="https://wwfcee.org/themes/frontend/js/swiper/swiper.min.js?t=1776950565" crossorigin="anonymous"></script>
+
+    <!-- JS ASSETS -->
+        <!-- JS ASSETS END -->
+
+    <!-- CSS ASSETS -->
+        <!-- CSS ASSETS END -->
+
+    <script type="text/javascript"> _linkedin_partner_id = "4790266"; window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || []; window._linkedin_data_partner_ids.push(_linkedin_partner_id); </script><script type="text/javascript"> (function(l) { if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])}; window.lintrk.q=[]} var s = document.getElementsByTagName("script")[0]; var b = document.createElement("script"); b.type = "text/javascript";b.async = true; b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js"; s.parentNode.insertBefore(b, s);})(window.lintrk); </script> <noscript> <img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=4790266&fmt=gif" /> </noscript>
+
+    <script src="https://www.google.com/recaptcha/api.js"></script>
+
+</body>
+</html>
