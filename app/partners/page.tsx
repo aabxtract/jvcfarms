@@ -1,6 +1,51 @@
+'use client';
+
+import { useState } from 'react';
 import './partners.css';
 
 export default function PartnersPage() {
+  const [formData, setFormData] = useState({
+    businessName: '',
+    contactPerson: '',
+    phone: '',
+    email: '',
+    businessType: '',
+    interest: ''
+  });
+
+  const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement>) => {
+    const { name, value } = e.target;
+    setFormData(prev => ({ ...prev, [name]: value }));
+  };
+
+  const handleMailTo = (e: React.FormEvent) => {
+    e.preventDefault();
+    
+    const subject = encodeURIComponent(`Wholesale Partnership Application - ${formData.businessName}`);
+    const body = encodeURIComponent(
+      `Hello JVC Farms Team,\n\n` +
+      `I am interested in becoming a wholesale partner. Below are my business details:\n\n` +
+      `-------------------------------------------\n` +
+      `BUSINESS INFORMATION\n` +
+      `-------------------------------------------\n` +
+      `Business Name: ${formData.businessName}\n` +
+      `Contact Person: ${formData.contactPerson}\n` +
+      `Business Type: ${formData.businessType}\n\n` +
+      `CONTACT DETAILS\n` +
+      `-------------------------------------------\n` +
+      `Phone: ${formData.phone}\n` +
+      `Email: ${formData.email}\n\n` +
+      `PRODUCTS OF INTEREST\n` +
+      `-------------------------------------------\n` +
+      `${formData.interest}\n\n` +
+      `I look forward to hearing from you soon.\n\n` +
+      `Best regards,\n` +
+      `${formData.contactPerson}`
+    );
+
+    window.location.href = `mailto:info@jvcfarms.com?subject=${subject}&body=${body}`;
+  };
+
   return (
     <div className="partners-page">
       <div className="container">
@@ -34,48 +79,96 @@ export default function PartnersPage() {
         <div className="partnership-form-wrapper">
           <div className="text-center form-header">
             <h2>Apply for Partnership</h2>
-            <p>Fill out the form below to initiate your wholesale partnership with JVC Farms.</p>
+            <p>Fill out the form below to generate an email application directly to our team.</p>
           </div>
           
-          <form className="card partnership-form" action="https://formspree.io/f/placeholder" method="POST">
+          <form className="card partnership-form" onSubmit={handleMailTo}>
             <div className="form-group">
               <label className="form-label" htmlFor="businessName">Business Name</label>
-              <input type="text" id="businessName" name="businessName" className="form-input" required />
+              <input 
+                type="text" 
+                id="businessName" 
+                name="businessName" 
+                className="form-input" 
+                value={formData.businessName}
+                onChange={handleChange}
+                required 
+              />
             </div>
             
             <div className="form-group">
               <label className="form-label" htmlFor="contactPerson">Contact Person</label>
-              <input type="text" id="contactPerson" name="contactPerson" className="form-input" required />
+              <input 
+                type="text" 
+                id="contactPerson" 
+                name="contactPerson" 
+                className="form-input" 
+                value={formData.contactPerson}
+                onChange={handleChange}
+                required 
+              />
             </div>
 
             <div className="form-group">
               <label className="form-label" htmlFor="phone">Phone Number</label>
-              <input type="tel" id="phone" name="phone" className="form-input" required />
+              <input 
+                type="tel" 
+                id="phone" 
+                name="phone" 
+                className="form-input" 
+                value={formData.phone}
+                onChange={handleChange}
+                required 
+              />
             </div>
 
             <div className="form-group">
               <label className="form-label" htmlFor="email">Email Address</label>
-              <input type="email" id="email" name="email" className="form-input" required />
+              <input 
+                type="email" 
+                id="email" 
+                name="email" 
+                className="form-input" 
+                value={formData.email}
+                onChange={handleChange}
+                required 
+              />
             </div>
 
             <div className="form-group">
               <label className="form-label" htmlFor="businessType">Business Type</label>
-              <select id="businessType" name="businessType" className="form-input" required>
+              <select 
+                id="businessType" 
+                name="businessType" 
+                className="form-input" 
+                value={formData.businessType}
+                onChange={handleChange}
+                required
+              >
                 <option value="">Select an option</option>
-                <option value="restaurant">Restaurant / Hotel</option>
-                <option value="retailer">Retail Store / Supermarket</option>
-                <option value="distributor">Distributor</option>
-                <option value="other">Other</option>
+                <option value="Restaurant / Hotel">Restaurant / Hotel</option>
+                <option value="Retail Store / Supermarket">Retail Store / Supermarket</option>
+                <option value="Distributor">Distributor</option>
+                <option value="Other">Other</option>
               </select>
             </div>
             
             <div className="form-group">
               <label className="form-label" htmlFor="interest">Products of Interest</label>
-              <textarea id="interest" name="interest" className="form-textarea" placeholder="e.g., Catfish (Live), Palm Oil (Drums)..." required></textarea>
+              <textarea 
+                id="interest" 
+                name="interest" 
+                className="form-textarea" 
+                placeholder="e.g., Catfish (Live), Palm Oil (Drums)..." 
+                value={formData.interest}
+                onChange={handleChange}
+                required
+              ></textarea>
             </div>
 
-            <button type="submit" className="btn btn-primary w-full btn-large mt-4">
-              Submit Application
+            <button type="submit" className="btn btn-primary w-full btn-large mt-4 btn-mailto">
+              <span>Send Email Application</span>
+              <span className="btn-icon">📩</span>
             </button>
           </form>
         </div>

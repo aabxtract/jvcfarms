@@ -25,10 +25,11 @@ export default function Navbar() {
     { name: 'Contact', path: '/contact' },
   ];
 
-  const showScrolled = isScrolled || pathname !== '/';
+  const isHome = pathname === '/';
+  const showScrolled = isScrolled || !isHome;
 
   return (
-    <div className={`navbar-wrapper ${showScrolled ? 'scrolled' : ''}`}>
+    <div className={`navbar-wrapper ${showScrolled ? 'scrolled' : ''} ${!isHome ? 'no-transition' : ''}`}>
 
       <header className="navbar-container">
         <Link href="/" className="navbar-logo">
