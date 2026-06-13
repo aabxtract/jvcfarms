@@ -26,6 +26,7 @@ export default function Footer() {
               <ul>
                 <li><Link href="/">Home</Link></li>
                 <li><Link href="/products">Our Products</Link></li>
+                <li><Link href="/gallery">Gallery</Link></li>
                 <li><Link href="/partners">Wholesale</Link></li>
                 <li><Link href="/contact">Support</Link></li>
               </ul>
@@ -34,14 +35,15 @@ export default function Footer() {
             <div className="footer-links-col">
               <h4>Contact</h4>
               <ul>
-                <li>hello@jvcfarms.com.ng</li>
-                <li>+234 800 000 0000</li>
+                <li>jvcfarmsltd@gmail.com</li>
+                <li>+234 913 336 74241</li>
+                <li>+234 806 056 1215</li>
                 <li>Lagos, Nigeria</li>
               </ul>
             </div>
             
             <div className="footer-action">
-              <a href="https://wa.me/2348000000000" className="btn btn-dark">Chat on WhatsApp</a>
+              <a href="https://wa.me/23491333674241" className="btn btn-dark" target="_blank" rel="noopener noreferrer">Chat on WhatsApp</a>
             </div>
           </div>
           

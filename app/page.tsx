@@ -50,7 +50,7 @@ export default function Home() {
               Fresh Farm Produce<br/>Directly From <span className="serif">Source</span>
             </h1>
             <p className="hero-subtext">
-              High-quality fish, palm oil, and grains delivered fresh and reliably across Nigeria.
+              High-quality catfish, palm oil, grains, and livestock delivered fresh and reliably across Nigeria.
             </p>
             <div className="hero-actions">
               <Link href="/products" className="btn btn-primary">View Products</Link>
@@ -62,6 +62,7 @@ export default function Home() {
                 <div className="avatar">🐟</div>
                 <div className="avatar">🌿</div>
                 <div className="avatar">🌽</div>
+                <div className="avatar">🐑</div>
               </div>
               <span className="stat-text">Premium Nigerian Output</span>
             </div>
@@ -77,7 +78,7 @@ export default function Home() {
               <span className="pill-tag">Our Products</span>
               <h2 className="section-title">Fresh Produce Built on<br/><span className="serif">Quality and Reliability</span></h2>
             </div>
-            <p className="section-desc-right">Explore our top-grade selection of catfish, palm oil, and maize available for both retail and wholesale at competitive rates.</p>
+            <p className="section-desc-right">Explore our top-grade selection of catfish, palm oil, grains, and livestock available for both retail and wholesale at competitive rates.</p>
           </div>
           
           <div className="solutions-grid">

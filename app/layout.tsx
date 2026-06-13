@@ -21,7 +21,7 @@ const playfair = Playfair_Display({
 
 export const metadata: Metadata = {
   title: 'JVC Farms | Fresh Farm Produce Directly From Source',
-  description: 'High-quality catfish, palm oil, and grains delivered fresh and reliably across Nigeria.',
+  description: 'High-quality catfish, palm oil, grains, and livestock delivered fresh and reliably across Nigeria.',
 };
 
 export default function RootLayout({

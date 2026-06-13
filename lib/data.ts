@@ -22,6 +22,30 @@ export const products = [
     fullDescription: "Our maize is harvested at peak maturity and carefully dried to maintain the perfect moisture level. It is rich in energy and safe for prolonged storage. Suitable for commercial buyers, caterers, and feed producers.",
     image: "/maize.jpeg",
     priceNote: "Contact for wholesale pricing"
+  },
+  {
+    id: "sheep-rearing",
+    name: "Sheep Rearing & Livestock",
+    description: "Healthy, grass-fed sheep reared under premium conditions. Ideal for breeding, meat, and festive celebrations.",
+    fullDescription: "Our sheep are reared in a clean, spacious, and disease-free environment. Fed with highly nutritious pasture and organic supplements, we ensure optimal weight gain and premium livestock health. We supply to farms for breeding, markets, and individuals for personal use or festive celebrations.",
+    image: "/sheep-rearing.png",
+    priceNote: "Contact for price per head / wholesale"
+  },
+  {
+    id: "goat-rearing",
+    name: "Goat Rearing & Livestock",
+    description: "Premium quality, active, and healthy goats reared on nutrient-rich feeds. Perfect for commercial and retail needs.",
+    fullDescription: "Our goats are bred with care in a hygienic environment, receiving regular veterinary checks and a balanced diet of natural pasture and high-quality feeds. Available in various breeds and sizes, our goats are perfect for breeding, meat production, festive events, and wholesale supply.",
+    image: "/goat-rearing.png",
+    priceNote: "Contact for price per head / wholesale"
+  },
+  {
+    id: "pig-farming",
+    name: "Pig Farming & Livestock",
+    description: "High-quality, fast-growing pigs reared in hygienic conditions. Perfect for breeding, pork production, and wholesale.",
+    fullDescription: "Our pig farming operations utilize modern, hygienic, and standard practices to ensure optimum animal welfare and high-yield production. Our pigs are raised on highly balanced, nutrient-rich feeds, resulting in excellent health and meat quality. We supply healthy piglets for breeding and mature pigs for processing or wholesale supply.",
+    image: "/pig-farming.png",
+    priceNote: "Contact for price per head / wholesale"
   }
 ];
 

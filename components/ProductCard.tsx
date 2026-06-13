@@ -12,7 +12,7 @@ export interface Product {
 
 export default function ProductCard({ product }: { product: Product }) {
   const whatsappMsg = `Hello, I want to order ${product.name}. Check my inquiry!`;
-  const whatsappLink = `https://wa.me/2348000000000?text=${encodeURIComponent(whatsappMsg)}`;
+  const whatsappLink = `https://wa.me/23491333674241?text=${encodeURIComponent(whatsappMsg)}`;
 
   return (
     <div className="card product-card">

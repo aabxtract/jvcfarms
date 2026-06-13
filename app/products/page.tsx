@@ -10,7 +10,7 @@ export default function ProductsPage() {
           <div className="page-header text-center">
             <span className="pill-tag mb-4">Our Produce</span>
             <h1>Fresh Farm Produce<br/><span className="serif">For You</span></h1>
-            <p className="page-subtitle">Explore our top-grade selection of catfish, palm oil, and grains available for both retail and wholesale.</p>
+            <p className="page-subtitle">Explore our top-grade selection of catfish, palm oil, grains, and livestock available for both retail and wholesale.</p>
           </div>
         
         <div className="products-grid">

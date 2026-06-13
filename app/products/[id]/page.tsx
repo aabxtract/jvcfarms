@@ -13,7 +13,7 @@ export default async function ProductDetailPage({ params }: { params: { id: stri
   }
 
   const whatsappMsg = `Hello, I want to order ${product.name}, quantity: [X]. Please provide more details.`;
-  const whatsappLink = `https://wa.me/2348000000000?text=${encodeURIComponent(whatsappMsg)}`;
+  const whatsappLink = `https://wa.me/23491333674241?text=${encodeURIComponent(whatsappMsg)}`;
 
   return (
     <div className="product-detail-page">

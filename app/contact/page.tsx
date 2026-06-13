@@ -22,15 +22,21 @@ export default function ContactPage() {
             
             <div className="info-block">
               <h3>📞 Phone & WhatsApp</h3>
-              <p>+234 800 000 0000</p>
-              <a href="https://wa.me/2348000000000" target="_blank" rel="noopener noreferrer" className="btn btn-outline mt-4">
-                Chat on WhatsApp
-              </a>
+              <p>+234 913 336 74241</p>
+              <p className="mt-1">+234 806 056 1215</p>
+              <div style={{ display: 'flex', flexDirection: 'column', gap: '10px', marginTop: '16px', maxWidth: '280px' }}>
+                <a href="https://wa.me/23491333674241" target="_blank" rel="noopener noreferrer" className="btn btn-outline" style={{ textAlign: 'center', display: 'block' }}>
+                  Chat on WhatsApp (Line 1)
+                </a>
+                <a href="https://wa.me/2348060561215" target="_blank" rel="noopener noreferrer" className="btn btn-outline" style={{ textAlign: 'center', display: 'block' }}>
+                  Chat on WhatsApp (Line 2)
+                </a>
+              </div>
             </div>
 
             <div className="info-block">
               <h3>✉️ Email</h3>
-              <p>hello@jvcfarms.com.ng</p>
+              <p>jvcfarmsltd@gmail.com</p>
             </div>
           </div>
 
