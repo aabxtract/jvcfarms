@@ -1,6 +1,32 @@
+'use client';
+
 import './contact.css';
 
 export default function ContactPage() {
+  const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
+    e.preventDefault();
+    const formData = new FormData(e.currentTarget);
+    const name = formData.get('name');
+    const phone = formData.get('contactPhone');
+    const product = formData.get('product');
+    const quantity = formData.get('quantity');
+    const location = formData.get('location');
+    const message = formData.get('message');
+
+    const text = `Hello JVC Farms! I would like to make an inquiry.
+
+*Name:* ${name}
+*Phone:* ${phone}
+*Product of Interest:* ${product}
+*Quantity:* ${quantity || 'N/A'}
+*Delivery Location:* ${location}
+
+*Additional Details:*
+${message || 'None'}`;
+
+    const encodedText = encodeURIComponent(text);
+    window.open(`https://wa.me/23491333674241?text=${encodedText}`, '_blank');
+  };
   return (
     <div className="contact-page">
       <div className="container">
@@ -41,7 +67,7 @@ export default function ContactPage() {
           </div>
 
           <div className="contact-form-wrapper">
-            <form className="card contact-form" action="https://formspree.io/f/placeholder" method="POST">
+            <form className="card contact-form" onSubmit={handleSubmit}>
               <h3>Send an Inquiry</h3>
               <p className="form-sub">Use the form below to request a quote or ask about our products.</p>
               

@@ -1,6 +1,7 @@
 'use client';
 
 import Link from 'next/link';
+import Image from 'next/image';
 import { usePathname } from 'next/navigation';
 import { useState, useEffect } from 'react';
 import './Navbar.css';
@@ -35,16 +36,23 @@ export default function Navbar() {
   return (
     <div className={`navbar-wrapper ${showScrolled ? 'scrolled' : ''} ${!isHome ? 'no-transition' : ''}`}>
       <header className="navbar-container">
-        <Link href="/" className="navbar-logo">
-          <div className="logo-icon">🌿</div>
-          <span className="logo-text">JVC Farms</span>
+        <Link href="/" className="navbar-logo" style={{ display: 'flex', alignItems: 'center' }}>
+          <Image
+            src={(!isScrolled && isHome) ? "/JVC LOGO WHITE 1.png" : "/JVC LOGO coloured.png"}
+            alt="JVC Farms Logo"
+            width={200}
+            height={50}
+            style={{ objectFit: 'contain', transform: 'scale(2.5) translate(-34px, 12px)', transformOrigin: 'left center' }}
+            priority
+            unoptimized
+          />
         </Link>
-        
+
         <nav className="navbar-pill-nav desktop-only">
           {navLinks.map((link) => (
-            <Link 
-              key={link.path} 
-              href={link.path} 
+            <Link
+              key={link.path}
+              href={link.path}
               className={`nav-link ${pathname === link.path ? 'active' : ''}`}
             >
               {link.name}
@@ -56,9 +64,9 @@ export default function Navbar() {
           <Link href="/contact" className="navbar-cta desktop-only">
             Contact Us
           </Link>
-          
-          <button 
-            className={`mobile-menu-btn ${isMenuOpen ? 'open' : ''}`} 
+
+          <button
+            className={`mobile-menu-btn ${isMenuOpen ? 'open' : ''}`}
             onClick={toggleMenu}
             aria-label="Toggle Menu"
           >
@@ -73,9 +81,9 @@ export default function Navbar() {
       <div className={`mobile-overlay ${isMenuOpen ? 'active' : ''}`}>
         <nav className="mobile-nav">
           {navLinks.map((link) => (
-            <Link 
-              key={link.path} 
-              href={link.path} 
+            <Link
+              key={link.path}
+              href={link.path}
               className={`mobile-link ${pathname === link.path ? 'active' : ''} ${link.path === '/contact' ? 'contact-highlight' : ''}`}
               onClick={() => setIsMenuOpen(false)}
             >
