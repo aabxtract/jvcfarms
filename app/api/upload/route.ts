@@ -22,7 +22,7 @@ export async function POST(request: Request) {
     const uploadResult = await new Promise((resolve, reject) => {
       const uploadStream = cloudinary.uploader.upload_stream(
         {
-          folder: 'jvcfarms/gallery',
+          folder: 'jvc-farms',
           resource_type: 'auto', // Allows both images and videos
         },
         (error, result) => {

@@ -11,12 +11,11 @@ export const revalidate = 0; // Disable caching for this route so it's always up
 
 export async function GET() {
   try {
-    // Fetch all resources from the jvcfarms/gallery folder
     const result = await cloudinary.api.resources({
       type: 'upload',
-      prefix: 'jvcfarms/gallery/',
-      max_results: 50,
-      resource_type: 'auto', // Fetch both images and videos
+      prefix: 'jvc-farms/',
+      max_results: 500,
+      resource_type: 'auto',
     });
 
     return NextResponse.json({ resources: result.resources });

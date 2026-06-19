@@ -1,0 +1,29 @@
+.gallery-page {
+  padding-bottom: 80px;
+}
+
+.gallery-header-spacing {
+  padding: 140px 0 40px 0;
+}
+
+.gallery-header {
+  margin-bottom: 64px;
+}
+
+.gallery-header h1 {
+  font-size: clamp(2.5rem, 4vw, 3.5rem);
+  margin-bottom: 16px;
+}
+
+.gallery-subtitle {
+  color: var(--text-muted);
+  font-size: 1.2rem;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 40px;
+}

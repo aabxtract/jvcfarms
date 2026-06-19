@@ -3,7 +3,7 @@
 import { useState, useEffect } from 'react';
 import { CldImage, CldVideoPlayer } from 'next-cloudinary';
 import 'next-cloudinary/dist/cld-video-player.css';
-import Link from 'next/link';
+import './gallery.css';
 
 interface MediaResource {
   asset_id: string;
@@ -69,34 +69,14 @@ export default function GalleryPage() {
   };
 
   return (
-    <div className="min-h-screen bg-gray-50/50">
-      {/* Header */}
-      <header className="bg-white border-b border-gray-200 sticky top-0 z-10">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
-          <div className="flex items-center gap-4">
-            <Link href="/" className="text-sm font-medium text-gray-500 hover:text-gray-900 transition-colors">
-              &larr; Back to Home
-            </Link>
-            <h1 className="text-xl font-bold text-gray-900">Farm Gallery</h1>
+    <div className="gallery-page">
+      <div className="gallery-header-spacing">
+        <div className="container">
+          <div className="gallery-header text-center">
+            <span className="pill-tag mb-4">Media</span>
+            <h1>Farm <span className="serif">Gallery</span></h1>
+            <p className="gallery-subtitle">Explore our state-of-the-art facilities, lush green pastures, and the incredible people who make it all happen.</p>
           </div>
-          <button
-            onClick={() => setIsAdminMode(!isAdminMode)}
-            className="text-sm font-medium text-indigo-600 hover:text-indigo-800 transition-colors"
-          >
-            {isAdminMode ? 'View as Guest' : 'Admin View'}
-          </button>
-        </div>
-      </header>
-
-      <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <div className="mb-12 text-center">
-          <h2 className="text-4xl font-extrabold text-gray-900 tracking-tight mb-4">
-            A Glimpse into JVC Farms
-          </h2>
-          <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Explore our state-of-the-art facilities, lush green pastures, and the incredible people who make it all happen.
-          </p>
-        </div>
 
         {isAdminMode && (
           <div className="mb-12 bg-white rounded-2xl shadow-sm border border-gray-100 p-8">
@@ -135,7 +115,7 @@ export default function GalleryPage() {
             {isAdminMode && <p className="text-sm text-gray-400 mt-2">Upload some pictures or videos to get started.</p>}
           </div>
         ) : (
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+          <div className="gallery-grid">
             {media.map((item) => (
               <div key={item.asset_id} className="group relative bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 border border-gray-100 flex flex-col">
                 <div className="aspect-[4/3] relative overflow-hidden bg-gray-100">
@@ -172,7 +152,8 @@ export default function GalleryPage() {
             ))}
           </div>
         )}
-      </main>
+        </div>
+      </div>
     </div>
   );
 }
