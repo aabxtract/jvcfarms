@@ -27,7 +27,6 @@ export default function Navbar() {
     { name: 'Products', path: '/products' },
     { name: 'Gallery', path: '/gallery' },
     { name: 'Partners', path: '/partners' },
-    { name: 'Contact', path: '/contact' },
   ];
 
   const isHome = pathname === '/';
@@ -84,7 +83,7 @@ export default function Navbar() {
             <Link
               key={link.path}
               href={link.path}
-              className={`mobile-link ${pathname === link.path ? 'active' : ''} ${link.path === '/contact' ? 'contact-highlight' : ''}`}
+              className={`mobile-link ${pathname === link.path ? 'active' : ''}`}
               onClick={() => setIsMenuOpen(false)}
             >
               {link.name}
